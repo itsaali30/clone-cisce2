@@ -1,0 +1,8 @@
+{
+  "name": "CISCE Board - Official Portal Clone",
+  "description": "Complete clone of the Council for the Indian School Certificate Examinations (CISCE) portal featuring ICSE/ISC examinations, results verification, syllabus downloads, school locator, circulars, and public services.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
